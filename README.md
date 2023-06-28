@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indra Adnyana</h1>
 <h2 align="center">A passionate mobile developer from Indonesia</h2>
-<p><img align="right" alt="Coding" width="400" src="foto.jpg"></p>
+<p><img align="right" alt="Coding" width="400" src="foto.jpg"></p><br>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrayyana&theme=chartreuse-dark" alt="indrayyana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrayyana&show_icons=true&locale=en" alt="indrayyana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark" alt="indrayyana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&" alt="indrayyana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark" alt="indrayyana" /></p>
