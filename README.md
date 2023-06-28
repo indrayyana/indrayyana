@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indra Adnyana</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
-<img align="right" alt="Coding" width="450" height="400" src="foto.jpg">
+<img align="right" alt="Coding" width="350" height="300" src="foto.jpg">
 
 - 🌱 I’m currently learning **Flutter**
 
