@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Indra Adnyana</h1>
-<h2 align="center">A passionate mobile developer from Indonesia</h2>
+<h2 align="center">A passionate mobile developer from Bali</h2>
 <p><img align="right" alt="Coding" width="400" src="foto.jpg"></p><br>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, PHP, and Django**
 
 - 📫 How to reach me **gdindra13@gmail.com**
 
