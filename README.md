@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Indra+Adnyana;A+passionate+mobile+developer;from+Bali%2C+Indonesia+%F0%9F%8F%9D" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&pause=2000&color=00FF00&background=000000&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Indra+Adnyana+%F0%9F%91%8B;A+passionate+mobile+developer;from+Bali%2C+Indonesia+%F0%9F%8F%9D" alt="Typing SVG" /></a></h1>
 <p><img align="right" alt="Coding" width="400" src="foto.jpg"></p><br>
 
 - 🌱 I’m currently learning **Flutter, PHP, and Django**
