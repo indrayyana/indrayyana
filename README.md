@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&pause=2000&color=00FF00&background=000000&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Indra+Adnyana+%F0%9F%91%8B;A+passionate+mobile+developer" alt="Typing SVG" /></a></h1>
-<p><img align="right" alt="Coding" width="400" src="foto.jpg"></p><br>
+<p><img align="right" alt="Coding" width="400em" src="foto.jpg"></p><br>
 
 - 🌱 I’m currently learning **Mobile and Back End Programming.**
 
@@ -19,8 +19,12 @@
 
 <a href="https://wakatime.com/@d2767603-e23e-49b9-84e8-252b6b99bb44"><img src="https://wakatime.com/badge/user/d2767603-e23e-49b9-84e8-252b6b99bb44.svg?style=for-the-badge" alt="Total time coded since March 28 2023" /></a>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=indrayyana&theme=chartreuse-dark" alt="indrayyana" /></p>
+<p align="left">  
+<a href="https://github.com/indrayyana">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark" alt="indrayyana" />
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark" alt="indrayyana" /></p>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=indrayyana&theme=chartreuse-dark" alt="indrayyana" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark" alt="indrayyana" /></p>
