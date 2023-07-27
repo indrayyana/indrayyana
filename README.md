@@ -19,6 +19,8 @@
 
 <a href="https://wakatime.com/@d2767603-e23e-49b9-84e8-252b6b99bb44"><img src="https://wakatime.com/badge/user/d2767603-e23e-49b9-84e8-252b6b99bb44.svg?style=for-the-badge" alt="Total time coded since March 28 2023" /></a>
 
+<a href="https://github.com/indrayyana"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrayyana&hide=html&theme=chartreuse-dark" alt="indrayyana" /></a>
+
 <details>
 <summary><h3>:zap: GitHub Stats</h3></summary>
 <a href="https://github.com/indrayyana">
@@ -27,8 +29,4 @@
 </a>
 </details>
 
-<details>
-<summary><h3>:zap: Most Used Languages</h3></summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrayyana&hide=html&theme=chartreuse-dark" alt="indrayyana" />
-</details>
 
