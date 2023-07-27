@@ -29,6 +29,6 @@
 
 <details>
 <summary><h3>:zap: Most Used Languages</h3></summary>
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=indrayyana&theme=chartreuse-dark" alt="indrayyana" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrayyana&hide=html&theme=chartreuse-dark" alt="indrayyana" />
 </details>
 
