@@ -21,12 +21,20 @@
 
 <a href="https://github.com/indrayyana"><img align="center" height="265" src="https://github-readme-stats-henna-pi.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html&theme=chartreuse-dark" alt="indrayyana" /></a>
 
-<details>
+<!-- <details>
 <summary><h3>:zap: GitHub Stats</h3></summary>
 <a href="https://github.com/indrayyana">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&exclude_days=Sun&theme=chartreuse-dark" alt="indrayyana" />
-</a>
-</details>
+</a> 
+</details> -->
+
+<details>
+<summary><h3>:zap: GitHub Stats</h3></summary>
+  
+| <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Indra Yana's github stats" /></a> | <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark" /></a> |
+| ------------- | ------------- |
+</details> 
+  
 
 
