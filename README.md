@@ -21,7 +21,7 @@
 
 <details>
   <summary><h3>:zap: Most Used Languages</h3></summary>
-    <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-henna-pi.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html&theme=chartreuse-dark&hide_border=true" alt="Indra Yana's top languages" /></a>
+    <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html&theme=chartreuse-dark&hide_border=true" alt="Indra Yana's top languages" /></a>
 </details> 
 
 <details>
