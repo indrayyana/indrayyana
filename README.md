@@ -19,12 +19,15 @@
 
 <a href="https://wakatime.com/@d2767603-e23e-49b9-84e8-252b6b99bb44"><img src="https://wakatime.com/badge/user/d2767603-e23e-49b9-84e8-252b6b99bb44.svg?style=for-the-badge" alt="Total time coded since March 28 2023" /></a>
 
-<a href="https://github.com/indrayyana/github-readme-stats"><img align="center" height="265" src="https://github-readme-stats-henna-pi.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html&theme=chartreuse-dark" alt="Indra Yana's top languages" /></a>
+<details>
+  <summary><h3>:zap: Most Used Languages</h3></summary>
+    <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-henna-pi.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html&theme=chartreuse-dark&hide_border=true" alt="Indra Yana's top languages" /></a>
+</details> 
 
 <details>
-<summary><h3>:zap: GitHub Stats</h3></summary>
+  <summary><h3>:zap: GitHub Stats</h3></summary>
   
-| <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Indra Yana's github stats" /></a> | <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark" /></a> |
+| <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Indra Yana's github stats" /></a> | <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 </details> 
   
