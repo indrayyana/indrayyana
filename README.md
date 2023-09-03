@@ -27,9 +27,5 @@
 | <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Indra Yana's github stats" /></a> | <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 </details> 
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+<p><img alt="snake gif" src="https://github.com/indrayyana/indrayyana/blob/output/github-contribution-grid-snake-dark.svg" /></p>
