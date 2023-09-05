@@ -25,8 +25,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Singapore
-
 💬 Programming Languages: 
 JavaScript               35 hrs 17 mins      ███████████████████░░░░░░   75.22 % 
 Python                   7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
@@ -36,7 +34,7 @@ SQL                      11 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/09/2023 15:48:48 UTC
+ Last Updated on 05/09/2023 16:02:26 UTC
 <!--END_SECTION:waka-->
 
 <details>
