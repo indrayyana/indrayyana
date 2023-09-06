@@ -24,6 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 27 March 2023 - To: 05 September 2023
+
+Total Time: 269 hrs 49 mins
+
 JavaScript       93 hrs 44 mins  ████████▓░░░░░░░░░░░░░░░░   34.65 %
 PHP              49 hrs 44 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
 Python           31 hrs 57 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
