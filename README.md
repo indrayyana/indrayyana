@@ -20,7 +20,7 @@
 
 <a href="https://wakatime.com/@d2767603-e23e-49b9-84e8-252b6b99bb44"><img src="https://wakatime.com/badge/user/d2767603-e23e-49b9-84e8-252b6b99bb44.svg?style=for-the-badge" alt="Total time coded since March 28 2023" /></a>
 
-<a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html,css,scss,less&theme=chartreuse-dark&hide_border=true" alt="Indra Yana's top languages" /></a>
+<a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html,css,scss,less&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Indra Yana's top languages" /></a>
 
 <!--START_SECTION:waka-->
 
