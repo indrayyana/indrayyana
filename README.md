@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```php, python, javascript
 From: 27 March 2023 - To: 26 November 2023
 
 Total Time: 436 hrs 14 mins
