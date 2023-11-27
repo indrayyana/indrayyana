@@ -25,12 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```php, python, javascript
-From: 27 March 2023 - To: 26 November 2023
+From: 27 March 2023 - To: 27 November 2023
 
-Total Time: 436 hrs 14 mins
+Total Time: 436 hrs 37 mins
 
-JavaScript       125 hrs 40 mins █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-Other            121 hrs 55 mins █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+Other            126 hrs 21 mins █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
 ```
 
 <!--END_SECTION:waka-->
