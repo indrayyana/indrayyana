@@ -22,4 +22,3 @@ jobs:
           SHOW_TOTAL: true
           LANG_COUNT: 5
           STOP_AT_OTHER: true
-          CODE_LANG: php, python, javascript
