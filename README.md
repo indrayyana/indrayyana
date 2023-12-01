@@ -30,6 +30,10 @@ From: 27 March 2023 - To: 30 November 2023
 Total Time: 438 hrs 56 mins
 
 Other            149 hrs 11 mins ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+JavaScript       125 hrs 49 mins █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+PHP              63 hrs 13 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+CSS              45 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Python           41 hrs 8 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
 ```
 
 <!--END_SECTION:waka-->
