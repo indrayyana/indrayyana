@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&pause=2000&color=00FF00&background=000000&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Indra+Adnyana+%F0%9F%91%8B;A+passionate+web+developer" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&pause=2000&color=00FF00&background=000000&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Indra+Adnyana+%F0%9F%91%8B;A+passionate+software+engineer" alt="Typing SVG" /></a></h1>
 <p><img align="right" alt="Coding" width="392em" src="foto.jpg"></p><br>
 
 - 🌱 I’m currently learning **Mobile and Back End Programming.**
