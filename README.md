@@ -9,7 +9,8 @@
 
 <h3 align="left">🤙 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/indrayyana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="I Gede Indra Adnyana" height="40" width="50" /></a>
+<a href="https://dev.to/indrayyana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dev" height="44" width="50" /></a>
+<a href="https://www.linkedin.com/in/indrayyana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
