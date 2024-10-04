@@ -10,8 +10,6 @@
 <h3 align="left">🤙 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/indrayyana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="I Gede Indra Adnyana" height="40" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100017896938032&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="indra yana" height="40" width="50" /></a>
-<a href="https://instagram.com/indrayyana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="indrayyana" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
