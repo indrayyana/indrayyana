@@ -45,7 +45,7 @@ TypeScript        69 hrs 20 mins  █▒░░░░░░░░░░░░░�
 <h3 align="center">🐍 My Contributions 🐍</h3>
 <p><img alt="snake gif" src="https://github.com/indrayyana/indrayyana/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 
-<h3 align="center">My Hacktoberfest badges</h3>
+<h3 align="center">My Hacktoberfest Badges</h3>
 <a href="https://holopin.io/@indrayyana"><img alt="hacktoberfest" src="https://holopin.me/indrayyana" /></a>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&pause=2000&color=00FF00&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+%F0%9F%99%8F;Shoot+me+a+message+on+Email" alt="Typing SVG" /></a></h3>
