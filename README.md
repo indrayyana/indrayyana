@@ -24,15 +24,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2023 - To: 27 June 2025
+From: 27 March 2023 - To: 28 June 2025
 
-Total Time: 1,848 hrs 49 mins
+Total Time: 1,851 hrs 31 mins
 
-TypeScript        462 hrs 15 mins █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
-Other             343 hrs 15 mins ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-JavaScript        273 hrs 6 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-PHP               241 hrs         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Go                194 hrs 45 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+TypeScript        464 hrs 34 mins █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+Other             343 hrs 15 mins ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+JavaScript        273 hrs 6 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+PHP               241 hrs         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Go                194 hrs 45 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
 ```
 
 <!--END_SECTION:waka-->
