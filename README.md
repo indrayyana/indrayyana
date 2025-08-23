@@ -24,15 +24,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2023 - To: 21 August 2025
+From: 27 March 2023 - To: 22 August 2025
 
-Total Time: 2,005 hrs 19 mins
+Total Time: 2,010 hrs 31 mins
 
-TypeScript        468 hrs 21 mins █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-Other             343 hrs 50 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-PHP               341 hrs 12 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-JavaScript        274 hrs 38 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Blade Template    213 hrs 59 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+TypeScript        468 hrs 21 mins █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+PHP               345 hrs 56 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Other             344 hrs 4 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+JavaScript        274 hrs 38 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Blade Template    214 hrs 21 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
 
 <!--END_SECTION:waka-->
