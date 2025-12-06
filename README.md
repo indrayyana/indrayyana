@@ -9,8 +9,8 @@
 
 <h3 align="left">🤙 Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/indrayyana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dev" height="44" width="50" /></a>
-<a href="https://www.linkedin.com/in/indrayyana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="50" /></a>
+<a href="https://dev.to/indravscode" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dev" height="44" width="50" /></a>
+<a href="https://www.linkedin.com/in/indravscode" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -19,7 +19,7 @@
 
 <a href="https://wakatime.com/@d2767603-e23e-49b9-84e8-252b6b99bb44"><img src="https://wakatime.com/badge/user/d2767603-e23e-49b9-84e8-252b6b99bb44.svg?style=for-the-badge" alt="Total time coded since March 28 2023" /></a>
 
-<a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrayyana&hide=cmake,html,css,scss,less&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Indra Yana's top languages" /></a>
+<a href="https://github.com/indravscode/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indravscode&hide=cmake,html,css,scss,less&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Indra Adnyana's top languages" /></a>
 
 <!--START_SECTION:waka-->
 
@@ -39,11 +39,11 @@ JavaScript        284 hrs 15 mins ██▓░░░░░░░░░░░░�
 
 <h3>:zap: GitHub Stats</h3>
   
-| <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrayyana&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Indra Yana's github stats" /></a> | <a href="https://github.com/indrayyana/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrayyana&theme=chartreuse-dark&hide_border=true" /></a> |
+| <a href="https://github.com/indravscode/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indravscode&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Indra Adnyana's github stats" /></a> | <a href="https://github.com/indravscode/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indravscode&theme=chartreuse-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="center">🐍 My Contributions 🐍</h3>
-<p><img alt="snake gif" src="https://github.com/indrayyana/indrayyana/blob/output/github-contribution-grid-snake-dark.svg" /></p>
+<p><img alt="snake gif" src="https://github.com/indravscode/indravscode/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 
 <h3 align="center">🚀 My Hacktoberfest Badges 🚀</h3>
 <a href="https://holopin.io/@indrayyana"><img alt="hacktoberfest" src="https://holopin.me/indrayyana" /></a>
